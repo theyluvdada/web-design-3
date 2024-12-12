@@ -1,0 +1,21 @@
+.box-1 {
+     background: yellow;
+     color: red;
+     border: 15px solid purple;
+     margin: 33px;
+     padding: 20;
+}
+
+#box-2{
+      background: white;
+      color: blue;
+      border: 15px dotted purple;
+      margin: 33px;
+      padding: 20px;
+}    
+
+.container{
+      background: aliceblue;
+      color: orange;     
+    font-family: Arial, Helvetica, sans-serif;
+}
